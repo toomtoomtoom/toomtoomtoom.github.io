@@ -1,0 +1,13 @@
+tabs:
+  # format: <filename_without_extension>: <value>
+  home: Home
+  categories: Categories
+  tags: Tags
+  archives: Timeline
+  about: About Me
+
+
+panel:
+  lastmod: Recently Updated
+  trending_tags: Tags
+  toc: Contents
