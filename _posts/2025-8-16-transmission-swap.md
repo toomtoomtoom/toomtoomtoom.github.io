@@ -2,7 +2,7 @@
 title: Automatic To Manual Transmission Conversion
 date: 2025-8-16 12:00:00 -0800
 categories: [Projects]
-tags: [automotove, fabrication, 3d printing]
+tags: [automotive, fabrication, 3d printing]
 image:
   path: /assets/img/projects/transmission_swap/tswap7.jpg
   alt: N.C.O.O.
