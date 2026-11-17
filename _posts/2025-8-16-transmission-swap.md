@@ -28,7 +28,7 @@ _Couldn't resist a shiny billet shift box._
 ![7](/assets/img/projects/transmission_swap/tswap7.jpg)
 _New clutch and manual flywheel, don't get to see that often!_
 
-![1](/assets/img/projects/transmission_swap/tswap1.jpg)
+![1](/assets/img/projects/transmission_swap/tswap1.JPG)
 _Out with the old, in with the new._
 
 ![8](/assets/img/projects/transmission_swap/tswap8.jpg)
